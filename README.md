@@ -1,5 +1,5 @@
 # การจดจำใบหน้าสมาชิกวง (G)I-DLE
-
+[![image.png](https://i.postimg.cc/4xFs7ZRy/image.png)](https://postimg.cc/xXHWhwCV)
 โปรเจคนี้ใช้ Machine Learning และ Deep Learning ในการตรวจจับและจดจำใบหน้าของสมาชิกวง (G)I-DLE โดยใช้ SVM (Support Vector Machine) และ DeepFace เพื่อดึงคุณลักษณะจากใบหน้า
 
 ## คุณสมบัติหลัก
